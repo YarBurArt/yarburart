@@ -14,21 +14,9 @@ In the coding world, I build web services, scripts, and bots using Python, C, C#
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yarburart" style="float: left; width: 50%;">
+<a href="http://www.github.com/yarburart" style="float: left; width: 45%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarburart&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-<a href="http://www.github.com/yarburart" style="float: left; width: 50%;">
+<a href="http://www.github.com/yarburart" style="float: left; width: 45%;">
     <img src="https://github-readme-stats.vercel.app/api?username=yarburart&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="yarburart's GitHub stats" />
 </a>
-
-
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/yarburart/AsyncPyCrawl" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yarburart&repo=AsyncPyCrawl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/yarburart/insightful_guardian" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yarburart&repo=insightful_guardian&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/yarburart/TelegraphSearchEngine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yarburart&repo=TelegraphSearchEngine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/yarburart/Dissonare_traffic" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yarburart&repo=Dissonare_traffic&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
-
