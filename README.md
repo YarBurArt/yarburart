@@ -14,7 +14,7 @@ In the coding world, I build web services, scripts, and bots using Python, C, C#
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yarburart" style="float: left; width: 45%;">
+<a href="http://www.github.com/yarburart" style="float: left; width: 40%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarburart&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <a href="http://www.github.com/yarburart" style="float: left; width: 45%;">
